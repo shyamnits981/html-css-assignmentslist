@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    height: 300px;
+    width: 300px;
+    border: white;
+    margin: 25px;
+    animation: tiltImage 2s linear infinite;
+}
+.col{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px;
+    cursor: pointer;
+}
+.image{
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    margin-left: 50px;
+}
+p{
+    margin-left: 50px;
+}
+h3{
+    margin-left: 50px;
+}
+.col :hover{
+    background-color:  rgb(172, 198, 189);   
+}
+.img{
+    animation: tiltImage 2s linear infinite;
+}

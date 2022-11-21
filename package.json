@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "tilt": "^0.2.0",
+    "vanilla": "^0.0.5",
+    "vanilla-tilt": "^1.7.3"
+  }
+}
